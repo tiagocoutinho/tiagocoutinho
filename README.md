@@ -8,7 +8,7 @@
 - 🧑‍🔧 I am also a freelancer helping companies with IoT related technologies
   and open source projects.
 
-- 🐍 Working on [sockio][1] and [serialio][3] python libraries
+- 🐍 Working on [sockio][2] and [serialio][3] python libraries
 - 🎉 Celebrating the success of [multivisor][4]
 - 🧑‍🏫 Teaching my nefew programming using python 
 - 🛠 Currently improving my skills in Rust, Elixir and GraphQL 
