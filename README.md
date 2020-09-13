@@ -19,13 +19,13 @@
 
 ---
 
-<table border="0">
+<table style="border:0px">
   <tr>
     <td>
-      <img alt="Tiago Coutinho's github stats" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true" />
+      <img height="250" alt="Tiago Coutinho's github stats" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true" />
     </td>
     <td>
-      <img alt="Tiago Coutinho's top github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
+      <img height="250" alt="Tiago Coutinho's top github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
     </td>
   </tr>
 </table>
