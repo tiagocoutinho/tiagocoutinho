@@ -1,9 +1,10 @@
 ### Hi there, I'm Tiago Coutinho 🧑‍💻
 
+I'm Tiago Coutinho, a diverse software engineer from Portugal, currently living in Barcelona, Spain.
   
-  <img height="200px" src="https://github.com/tiagocoutinho/tiagocoutinho/raw/master/resources/albert_einstein_01.png" />
+  <img width="500" align="right" src="https://github.com/tiagocoutinho/tiagocoutinho/raw/master/resources/albert_einstein_01.png" />
 
-*I'm a husband, software engineer, bike addict* 
+**I'm a husband, software engineer, bike addict** 
 
 - 💼 Working at [ALBA Synchrotron][1] as part of the control system team. 
   👩‍🔬 My main goal here is to provide scientists with the tools to remotely control their
