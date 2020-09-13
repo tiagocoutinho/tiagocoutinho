@@ -18,9 +18,12 @@
 - 🇵🇹 Native | 🇬🇧 Fluent | 🇪🇸 Fluent | 🇫🇷 Fluent
 
 ---
-
+<div>
 <img height="200" alt="Tiago Coutinho's github stats" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true" />
+</div>
+<div>
 <img height="200" alt="Tiago Coutinho's top github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
+</div>
 
 [1]: https://www.cells.es/
 [2]: https://github.com/tiagocoutinho/sockio
