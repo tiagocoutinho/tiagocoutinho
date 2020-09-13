@@ -19,16 +19,8 @@
 
 ---
 
-<table style="border:0px solid white;">
-  <tr>
-    <td>
-      <img height="200" alt="Tiago Coutinho's github stats" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true" />
-    </td>
-    <td>
-      <img height="200" alt="Tiago Coutinho's top github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
-    </td>
-  </tr>
-</table>
+<img height="200" alt="Tiago Coutinho's github stats" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true" />
+<img height="200" alt="Tiago Coutinho's top github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
 
 [1]: https://www.cells.es/
 [2]: https://github.com/tiagocoutinho/sockio
