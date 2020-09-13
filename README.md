@@ -2,7 +2,7 @@
 
 I'm Tiago Coutinho, a diverse software engineer from Portugal, currently living in Barcelona, Spain.
   
-  <img width="500" align="right" src="https://github.com/tiagocoutinho/tiagocoutinho/raw/master/resources/albert_einstein_01.png" />
+  <img width="500" align="right" src="https://github.com/tiagocoutinho/tiagocoutinho/raw/master/resources/albert_einstein.png" />
 
 **I'm a husband, software engineer, bike addict** 
 
