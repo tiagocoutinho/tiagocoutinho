@@ -1,5 +1,7 @@
 ### Hi there, I'm Tiago Coutinho 🧑‍💻
 
+<img src="https://github.com/tiagocoutinho/tiagocoutinho/raw/master/albert_einstein_01.png" />
+
 ## I'm a husband, software engineer, bike addict 
 
 - 💼 Working at [ALBA Synchrotron][1] as part of the control system team. 
@@ -14,8 +16,6 @@
 - 🛠 Currently improving my skills in Rust, Elixir and GraphQL 
 - 👨‍🔬 I love to experiment with new technologies
 - 🇵🇹 Native | 🇬🇧 Fluent | 🇪🇸 Fluent | 🇫🇷 Fluent
-
-![Albert Einstein quote](https://github.com/tiagocoutinho/tiagocoutinho/raw/master/albert_einstein_01.png)
 
 [1]: https://www.cells.es/
 [2]: https://github.com/tiagocoutinho/sockio
