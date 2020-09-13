@@ -19,7 +19,7 @@
 
 ---
 
-<table style="border:0px">
+<table style="border:0px solid white;">
   <tr>
     <td>
       <img height="200" alt="Tiago Coutinho's github stats" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true" />
