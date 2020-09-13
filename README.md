@@ -20,7 +20,7 @@
 ---
 <details>
   <summary>:zap: Tiago Coutinho's github stats</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true&hide_border=true&hide_title=true" />
 </details>
 <details>
   <summary>:zap: Tiago Coutinho's top github languages</summary>
