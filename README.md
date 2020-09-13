@@ -15,7 +15,7 @@
 - 👨‍🔬 I love to experiment with new technologies
 - 🇵🇹 Native | 🇬🇧 Fluent | 🇪🇸 Fluent | 🇫🇷 Fluent
 
-![Albert Einstein quote](https://github.com/tiagocoutinho/tiagocoutinho/blob/master/albert_einstein_01.png)
+![Albert Einstein quote](https://github.com/tiagocoutinho/tiagocoutinho/raw/master/albert_einstein_01.png)
 
 [1]: https://www.cells.es/
 [2]: https://github.com/tiagocoutinho/sockio
