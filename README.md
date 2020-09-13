@@ -21,6 +21,8 @@
 
 [![Tiago Coutinho's github stats](https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true)](https://github.com/tiagocoutinho/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho)](https://github.com/tiagocoutinho/github-readme-stats)
+
 [1]: https://www.cells.es/
 [2]: https://github.com/tiagocoutinho/sockio
 [3]: https://github.com/tiagocoutinho/serialio
