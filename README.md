@@ -1,6 +1,6 @@
 ### Hi there, I'm Tiago Coutinho 🧑‍💻
 
-<img height="200px" src="https://github.com/tiagocoutinho/tiagocoutinho/raw/master/albert_einstein_01.png" />
+<img height="200px" src="https://github.com/tiagocoutinho/tiagocoutinho/raw/master/resources/albert_einstein_01.png" />
 
 ## I'm a husband, software engineer, bike addict 
 
