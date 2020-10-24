@@ -37,6 +37,7 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 </details>
 </div>
 </div>
+
 [1]: https://www.cells.es/
 [2]: https://github.com/tiagocoutinho/sockio
 [3]: https://github.com/tiagocoutinho/serialio
