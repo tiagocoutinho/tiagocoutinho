@@ -21,11 +21,15 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 ---
 <details>
   <summary>:zap: Tiago Coutinho's github stats</summary>
-    <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true&hide_border=true&hide_title=true" />
+  <p align="center"> 
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true&hide_border=true&hide_title=true" />
+  </p>
 </details>
 <details>
   <summary>:zap: Tiago Coutinho's top github languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
+  </p>
 </details>
 
 [1]: https://www.cells.es/
