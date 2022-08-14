@@ -8,7 +8,7 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 
 - 🐍 Working on [sockio][2] and [serialio][3] python libraries
 - 🎉 Celebrating the success of [multivisor][4]
-- 🧑‍🏫 Teaching my nefew programming using python 
+- 🧑‍🏫 Teaching my nefews programming using python 
 - 🛠 Currently improving my skills in Rust, Elixir and GraphQL 
 - 👨‍🔬 I love to experiment with new technologies
 - 💼 Working as an independent contractor for [crunch.io](https://crunch.io/)
