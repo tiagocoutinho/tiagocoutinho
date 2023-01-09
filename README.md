@@ -6,12 +6,12 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 
 **I'm a husband, software engineer, bike addict** 
 
-- 🐍 Working on [sockio][2] and [serialio][3] python libraries
+- 💼 Working at [crunch.io](https://crunch.io/)
+- 🐍 Improving [sockio][2] and [serialio][3] python libraries
 - 🎉 Celebrating the success of [multivisor][4]
 - 🧑‍🏫 Teaching my nefews programming using python 
 - 🛠 Currently improving my skills in Rust, Elixir and GraphQL 
 - 👨‍🔬 I love to experiment with new technologies
-- 💼 Working as an independent contractor for [crunch.io](https://crunch.io/)
 - 🧑‍🔧 I am also a freelancer helping companies with IoT related technologies
   and open source projects.
 - 🇵🇹 Native | 🇬🇧 Fluent | 🇪🇸 Fluent | 🇫🇷 Fluent
@@ -40,3 +40,5 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 [2]: https://github.com/tiagocoutinho/sockio
 [3]: https://github.com/tiagocoutinho/serialio
 [4]: https://github.com/tiagocoutinho/multivisor
+[5]: https://github.com/tiagocoutinho/modbus-proxy
+[6]: https://github.com/tiagocoutinho/modbus-proxy
