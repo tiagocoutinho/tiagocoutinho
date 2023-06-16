@@ -4,7 +4,7 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
   
   <img width="400" align="right" src="resources/albert_einstein.png" />
 
-**I'm a husband, software engineer, bike addict** 
+**I'm a husband, father, software engineer, bike addict** 
 
 - 💼 Working at [crunch.io][1]
 - 🐍 Improving [v4l2py][7] and [qredis][8] python libraries
