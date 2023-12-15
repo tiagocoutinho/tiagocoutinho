@@ -7,7 +7,7 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 **I'm a husband, father, software engineer, bike addict** 
 
 - 💼 Working at [crunch.io][1]
-- 🐍 Improving [v4l2py][7] and [qredis][8] python libraries
+- 🐍 Improving [linuxpy][7] and [qredis][8] python libraries
 - 🎉 Celebrating the success of [multivisor][4]
 - 🧑‍🏫 Teaching my nefews programming using python 
 - 🛠 Currently improving my skills in Rust, Elixir and GraphQL 
@@ -44,3 +44,4 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 [6]: https://github.com/tiagocoutinho/modbus-proxy-rs
 [7]: https://github.com/tiagocoutinho/v4l2py
 [8]: https://github.com/tiagocoutinho/qredis
+[9]: https://github.com/tiagocoutinho/linuxpy
