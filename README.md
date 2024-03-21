@@ -6,7 +6,7 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 
 **I'm a husband, father, software engineer, bike addict** 
 
-- 💼 Working at [crunch.io][1]
+- 💼 Working for [crunch.io][1]
 - 🐍 Improving [linuxpy][9] and [qredis][8] python libraries
 - 🎉 Celebrating the success of [multivisor][4]
 - 🧑‍🏫 Teaching my nefews programming using python 
@@ -17,24 +17,6 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 - 🇵🇹 Native | 🇬🇧 Fluent | 🇪🇸 Fluent | 🇫🇷 Fluent
 
 ---
-<div>
-<div>
-<details>
-  <summary>:zap: Tiago Coutinho's github stats</summary>
-  <p align="center"> 
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=tiagocoutinho&show_icons=true&hide_border=true&hide_title=true" />
-  </p>
-</details>
-</div>
-<div>
-<details>
-  <summary>:zap: Tiago Coutinho's top github languages</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocoutinho" />
-  </p>
-</details>
-</div>
-</div>
 
 [1]: https://crunch.io/
 [2]: https://github.com/tiagocoutinho/sockio
