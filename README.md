@@ -16,8 +16,6 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
   and open source projects.
 - 🇵🇹 Native | 🇬🇧 Fluent | 🇪🇸 Fluent | 🇫🇷 Fluent
 
----
-
 [1]: https://crunch.io/
 [2]: https://github.com/tiagocoutinho/sockio
 [3]: https://github.com/tiagocoutinho/serialio
