@@ -10,7 +10,7 @@ I'm a diverse software engineer from Portugal, currently living in Barcelona, Sp
 - 🐍 Improving [linuxpy][9] and [qredis][8] python libraries
 - 🎉 Celebrating the success of [multivisor][4]
 - 🧑‍🏫 Teaching my nefews programming using python 
-- 🛠 Currently improving my skills in Rust, Elixir and GraphQL 
+- 🛠 Currently improving my skills in Zig and Rust
 - 👨‍🔬 I love to experiment with new technologies
 - 🧑‍🔧 I am also a freelancer helping companies with IoT related technologies
   and open source projects.
