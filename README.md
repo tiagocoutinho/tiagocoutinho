@@ -1,6 +1,6 @@
 ### Hi there, I'm Tiago Coutinho 🧑‍💻
 
-I'm a diverse software engineer from Portugal, currently living in Barcelona, Spain.
+I'm a software engineer from Portugal, currently living in Baiona, Spain.
   
   <img width="400" align="right" src="resources/albert_einstein.png" />
 
